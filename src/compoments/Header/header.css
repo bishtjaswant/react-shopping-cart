@@ -1,0 +1,17 @@
+.navbar-expand-lg .navbar-nav .dropdown-menu {
+    position: absolute;
+    left: -207px!important;
+}
+
+
+.header_img {
+    width: 20%;
+    object-fit: cover;
+  
+    margin-right: 14px;
+}
+
+.header_cart_box {
+    display: flex;
+    flex-wrap: nowrap;
+}

@@ -1,0 +1,29 @@
+
+.cart .cart_filter {
+    background: #343840;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    padding: 40px; 
+    justify-content: flex-start;
+    height: 90vh;
+}
+
+.cart{
+        display: flex;
+        justify-content: space-evenly;
+  
+}
+
+
+.cart  .cart_products{
+    width: 80%;
+}
+
+.cart_filter .total_item {
+    font-size: 1rem;
+}
+.cart_filter .total_subtotal {
+    font-size: 1.2rem;
+}
